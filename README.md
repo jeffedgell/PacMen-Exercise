@@ -1,2 +1,3 @@
 # PacMen-Exercise
-<img src= "PacMan 1.png" width='300'/>
+<img src= "PacMan1.png" width='300'/>
+
